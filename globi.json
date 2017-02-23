@@ -1,0 +1,16 @@
+{ 
+  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
+  "format": "fishbase",
+  "citation": "Palomares, M.L.D. and D. Pauly. Editors. 2016. SeaLifeBase. World Wide Web electronic publication. www.sealifebase.org, version (10/2016).",
+  "shouldResolveReferences": true,
+  "namespace": "SLB",
+  "resources": {
+    "diet.tsv": "diet_sealifebase.tsv.gz",
+    "fooditems.tsv": "fooditems_sealifebase.tsv.gz",
+    "predats.tsv": "predats_sealifebase.tsv.gz",
+    "species_sealifebase.tsv": "species_sealifebase.tsv.gz",
+    "species_fishbase.tsv": "species_fishbase.tsv.gz",
+    "countref.tsv": "countref_sealifebase.tsv.gz",
+    "refrens.tsv": "refrens_sealifebase.tsv.gz"
+  } 
+}
