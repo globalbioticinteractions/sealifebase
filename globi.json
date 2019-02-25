@@ -1,7 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "fishbase",
-  "citation": "Palomares, M.L.D. and D. Pauly. Editors. 2016. SeaLifeBase. World Wide Web electronic publication. www.sealifebase.org, version (10/2016).",
+  "citation": "Palomares, M.L.D. and D. Pauly. Editors. 2018. SeaLifeBase. World Wide Web electronic publication. www.sealifebase.org, version (10/2018).",
   "shouldResolveReferences": true,
   "namespace": "SLB",
   "resources": {
